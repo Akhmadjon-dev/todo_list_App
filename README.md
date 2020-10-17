@@ -38,7 +38,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ALAN_NEWS_READER_AI</h3>
+  <h3 align="center">Todo list</h3>
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
